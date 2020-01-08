@@ -1,0 +1,7 @@
+/node_modules
+/npm-debug.log
+/.idea
+/data/operational_events.test.json
+/data/operational_events.json
+/obj/test
+/docker/id_rsa*
